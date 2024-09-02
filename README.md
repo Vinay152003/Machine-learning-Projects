@@ -1,3 +1,18 @@
+This project aims to predict future stock prices using machine learning algorithms. The primary goal is to develop a model that can forecast stock prices based on historical data and other relevant features.
+Objectives:
+To predict future stock prices with high accuracy.
+To understand the factors that influence stock prices.
+To provide actionable insights for investors and financial analysts.
+
+Tools and Technologies:
+Programming Languages: Python, R
+Libraries: pandas, NumPy, scikit-learn, TensorFlow, Keras
+Data Sources: Financial APIs, stock market databases
+
+Challenges:
+Handling noisy and volatile stock market data.
+Integrating diverse data sources.
+Ensuring the model adapts to changing market conditions.
 
 ### Table of Contents
 * [Installation](#installation)
